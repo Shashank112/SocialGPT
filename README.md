@@ -105,7 +105,7 @@ Ideally a real-time analysis would provide great value back to Social Media Mana
 1.	Customer Persona Revenue Mapping -> Reveals which demographics drive the highest scent-based revenue - like Dr. Squatch did to 30x growth.
 2.	Platform Performance Arbitrage -> Lets Tree Hut shift content/ad spend to the platforms where each scent performs best.
 3.	Influencer ROI Calculator -> Measures exact dollar impact per influencer.
-4.	Sentiment Crisis Detector -> Prevents viral backlash that can cost $500K+ in hours—not days.
+4.	Sentiment Crisis Detector -> Prevents viral backlash that can cost $$ in hours, not days.
 
 
 I would choose: PostgreSQL -> Snowflake/similar (100M+ comments), for processing similar to Apache Spark, with ML FLow versioned models and Real-time React dashboards
