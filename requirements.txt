@@ -1,0 +1,11 @@
+ipykernel
+ipywidgets
+pandas
+numpy 
+scikit-learn 
+nltk 
+vaderSentiment
+seaborn
+matplotlib
+wordcloud
+streamlit
