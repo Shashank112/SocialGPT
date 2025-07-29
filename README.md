@@ -9,6 +9,7 @@ Built with:
 - ✅ VADER (sentiment analysis)
 - ✅ Scikit-learn, pandas, matplotlib, seaborn, wordcloud
 - ✅ Modular folder structure for maintainability
+- ✅ Claude by Anthropic
 
 ---
 
@@ -97,3 +98,16 @@ This will launch the dashboard in your browser with various insights and visuali
 
 ---
 
+1-Month Extension Roadmap: (Ranked)
+
+Ideally a real-time analysis would provide great value back to Social Media Manager, jacked up with triggers/notifications, knowing where and what to look for. Given more data, this can be built into full fledged SaaS solution. 
+
+1.	Customer Persona Revenue Mapping -> Reveals which demographics drive the highest scent-based revenue - like Dr. Squatch did to 30x growth.
+2.	Platform Performance Arbitrage -> Lets Tree Hut shift content/ad spend to the platforms where each scent performs best.
+3.	Influencer ROI Calculator -> Measures exact dollar impact per influencer.
+4.	Sentiment Crisis Detector -> Prevents viral backlash that can cost $500K+ in hours—not days.
+
+
+I would choose: PostgreSQL -> Snowflake/similar (100M+ comments), for processing similar to Apache Spark, with ML FLow versioned models and Real-time React dashboards
+
+![Example Image](example_image.png)
